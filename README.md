@@ -1,4 +1,4 @@
-# ASP2 - DZ1: Algorithms and Data Structures 2 - 2023-2024
+# ASP2 - DZ1: Algorithms and Data Structures 2 - AVL tree and Lozanic Triangle
 
 ## Overview
 
